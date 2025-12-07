@@ -1,117 +1,76 @@
-<h1 align="center">Hi 👋, I'm Ankush Sharma</h1>
-<h3 align="center">Full Stack Developer (MERN) | B.Tech CSE | Building Real-World Web Applications</h3>
-
+<!-- Animated Intro -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankushsharma07&label=Profile%20Views&color=0A66C2&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00F729&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankush+Sharma+👋;Full+Stack+MERN+Developer;Building+Real+World+Web+Apps;Welcome+to+my+GitHub+Profile!" alt="Typing animation" />
 </p>
 
----
+<!-- Real Human Visitor Counter -->
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=ankushsharma07&label=Visitors&labelColor=000000&countColor=00FFEC&style=flat-square" />
+</p>
 
-## 🚀 About Me  
-I'm a passionate **Full Stack MERN Developer** with strong skills in creating responsive, user-focused, and scalable web applications.  
-I enjoy writing clean code, solving problems, and building real-world projects that help me grow technically.
+<!-- Line -->
+<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Line.gif">
 
-- 🎓 **B.Tech CSE (2024–2028)** – Arya College of Engineering  
-- 💼 Completed training under **IBM SkillsBuild** & **AWS Cloud Program**  
-- 🌱 Currently mastering **React, Node.js, MongoDB & DSA**  
-- 🎯 Goal: **Become MERN Stack Internship Ready**  
+<h2 align="center">🚀 About Me</h2>
+
+- 🎓 B.Tech CSE @ Arya College (2024–28)  
+- 💻 MERN Stack Developer  
+- 🌱 Learning: **React, Node.js, MongoDB, DSA**  
+- 🔥 Passionate about building modern UI Web Apps  
 - 📫 Email: **ankushsharma4607@gmail.com**  
 - 📍 Jaipur, India  
 
 ---
 
-## 🔗 Connect With Me  
-<p>
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ankush-sharma460" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
+  &nbsp;
   <a href="https://github.com/ankushsharma07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Technical Skills  
+<h2 align="center">🛠️ My Skills</h2>
 
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-### **Tools & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,aws" />
-</p>
-
----
-
-## 📌 Featured Projects  
-
-### 🔹 **Netflix Clone (Frontend)**  
-Responsive UI, modern layout, animations — built using HTML, CSS & JS.
-
-### 🔹 **Personal Portfolio Website**  
-Showcasing my skills, projects, resume and achievements.
-
-### 🔹 **Task Manager App (Node.js + EJS)**  
-Create, view, and edit tasks using a file-based backend.
-
-### 🔹 **Basic Calculator**  
-Simple and clean calculator for basic arithmetic operations.
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushsharma07&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,c,cpp,java,python,aws" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Line.gif">
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushsharma07&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🎓 Certifications  
-- **NPTEL – C Programming (Elite), IIT Kanpur**  
-- **NPTEL – Modern C++, IIT Kharagpur**  
-- **C Programming – IIT Bombay (92.5%)**  
-- **TCS iON – Career Edge**  
-- **IBM SkillBuild – Frontend Development**  
-- **JavaScript Basics – Medi-Caps University**
+<h2 align="center">🔥 Funny & Cool Section</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350">
+</p>
 
 ---
 
-## 🏆 Hackathons & Workshops  
-- Bhartiya Antariksh Hackathon  
-- IIT Roorkee – DSA Workshop  
-- IIT Roorkee – Quadcopter Workshop  
-- Triskaideka Hackathon  
-- Hack Nexus Hackathon  
+<h2 align="center">🎯 Current Goal</h2>
 
----
+<p align="center">
+  <b>Become MERN Stack Internship Ready 🚀</b>
+</p>
 
-## 🎯 Current Focus  
-Sharpening MERN Stack development skills & preparing for **internship opportunities**.
-
----
-
-## ⚡ Fun Fact  
-I love converting ideas into real, working web applications!  
+<img src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Line.gif">
