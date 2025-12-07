@@ -1,9 +1,9 @@
-<!-- Typing Animation (Centered) -->
+<!-- ⭐ ANIMATED TYPING TEXT (100% WORKING CDN) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F729&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankush+Sharma+👋;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=00F729&center=true&vCenter=true&width=600&lines=Hi+I'm+Ankush+Sharma+👋;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
-<!-- Visitor Counter (Centered) -->
+<!-- ⭐ REAL HUMAN VISITOR COUNTER (Stable) -->
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=ankushsharma07&label=Visitors&labelColor=000000&countColor=00FFEC&style=flat-square" />
 </p>
@@ -14,7 +14,7 @@
 - 🎓 B.Tech CSE @ Arya College (2024–28)  
 - 💻 MERN Stack Developer  
 - 🌱 Learning React, Node.js, MongoDB, DSA  
-- 🔥 I love building modern UI web apps  
+- 🔥 I love building modern UI apps  
 - 📫 Email: **ankushsharma4607@gmail.com**  
 - 📍 Jaipur, India  
 
@@ -23,10 +23,10 @@
 ## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/ankush-sharma460" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
   <a href="https://github.com/ankushsharma07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
   </a>
 </p>
 
@@ -52,4 +52,4 @@
 ---
 
 ## 🎯 Current Goal  
-Become **MERN Stack Internship Ready** 🚀  
+Become **MERN Stack Internship Ready** 🚀
