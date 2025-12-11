@@ -12,7 +12,7 @@
 - 🎓 B.Tech CSE @ Arya College (2024–28)  
 - 💻 MERN Stack Developer  
 - 🌱 Learning React, Node.js, MongoDB, DSA  
-- 🔥 I love building modern UI apps  
+- 🔥 Passionate about building modern UI/UX  
 - 📫 Email: **ankushsharma4607@gmail.com**  
 - 📍 Jaipur, India  
 
@@ -37,20 +37,25 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (100% Working)
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=radical&rank_icon=github" />
-  
-  <img width="48%" 
-       src="https://streak-stats.demolab.com?user=ankushsharma07&theme=radical" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ankushsharma07&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" />
+
+  <!-- Streak Stats -->
+  <img width="48%"
+       src="https://streak-stats.demolab.com?user=ankushsharma07&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=radical" />
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
+
+---
 
 ## 🎯 Current Goal  
 Become **MERN Stack Internship Ready** 🚀
