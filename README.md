@@ -38,16 +38,19 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushsharma07&theme=radical" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=radical&rank_icon=github" />
+  
+  <img width="48%" 
+       src="https://streak-stats.demolab.com?user=ankushsharma07&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=radical" />
+  <img width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=radical" />
 </p>
-
----
 
 ## 🎯 Current Goal  
 Become **MERN Stack Internship Ready** 🚀
