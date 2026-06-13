@@ -1,6 +1,4 @@
-# 🌌 Premium Animated GitHub README (README.md)
 
-````md
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ankush+Sharma;🚀+Aspiring+Data+Scientist;💻+Frontend+Developer+%7C+Python+%7C+React.js;📊+Learning+Machine+Learning+%26+Data+Analysis;Welcome+to+My+Digital+Universe+✨" />
 </p>
