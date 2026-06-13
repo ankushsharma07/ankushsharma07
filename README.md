@@ -122,7 +122,7 @@ Goal: Become Data Science Internship Ready 🚀
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/hR6mgq1O03/">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/>
 </a>
 </p>
