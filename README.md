@@ -125,6 +125,7 @@ Goal: Become Data Science Internship Ready 🚀
 <a href="https://leetcode.com/u/hR6mgq1003/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="50"/>
 </a>
+
 ---
 
 # 🎯 Current Goal
