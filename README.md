@@ -122,7 +122,7 @@ Goal: Become Data Science Internship Ready 🚀
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://leetcode.com/u/hR6mgq1003/" target="_blank">
+<a href="https://leetcode.com/u/hR6mgq1O03/" target="_blank">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="50"/>
 </a>
 
