@@ -1,64 +1,143 @@
+# 🌌 Premium Animated GitHub README (README.md)
+
+````md
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=1000&color=1A73E8&center=true&vCenter=true&width=700&lines=Hi+I'm+Ankush+Sharma+👋;Aspiring+Data+Scientist;Python+%7C+Data+Analysis+%7C+Machine+Learning;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ankush+Sharma;🚀+Aspiring+Data+Scientist;💻+Frontend+Developer+%7C+Python+%7C+React.js;📊+Learning+Machine+Learning+%26+Data+Analysis;Welcome+to+My+Digital+Universe+✨" />
 </p>
 
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ankushsharma07&label=Visitors&labelColor=1A73E8&countColor=FFFFFF&style=flat-square" />
-</p>
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech CSE @ Arya College of Engineering (2024–2028)
-* 📊 Aspiring Data Scientist & Frontend Developer
-* 💻 Skilled in Python, JavaScript, React.js, HTML, CSS
-* 🌱 Currently learning Data Analysis, Machine Learning & DSA
-* ☁️ AWS Cloud Trained | IBM Frontend Certified
-* 🔥 Passionate about solving real-world problems through technology
-* 📫 Email: **[ankushsharma4607@gmail.com](mailto:ankushsharma4607@gmail.com)**
-* 📍 Jaipur, India
-
----
-
-## 🌐 Connect with Me
+<h3 align="center">
+🚀 Aspiring Data Scientist | 💻 Frontend Developer | ☁️ AWS Cloud Trained
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankush-sharma460" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-  </a>
-  <a href="https://github.com/ankushsharma07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
-  </a>
-  <a href="mailto:ankushsharma4607@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ankushsharma07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views"/>
 </p>
 
 ---
 
-## 🛠️ My Skills
+# 🌟 About Me
+
+```yaml
+Name: Ankush Sharma
+Education: B.Tech CSE @ Arya College of Engineering
+Role: Aspiring Data Scientist
+Skills: Python, React.js, JavaScript, HTML, CSS
+Currently Learning:
+  - Data Analysis
+  - Machine Learning
+  - DSA (Java)
+Certifications:
+  - IBM Frontend Certified
+  - AWS Cloud Trained
+Goal: Become Data Science Internship Ready 🚀
+````
+
+---
+
+# ⚡ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,mysql,mongodb,git,github,c,cpp,java,aws" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
 </p>
 
+### 🌐 Frontend
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Basics-blue?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 📊 Data Science
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Basics-blue?style=for-the-badge" />
+</p>
+
+### 🛠 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-* 🎬 **Netflix Clone** – Frontend project with responsive UI/UX
-* 🧑‍🎓 **Student Management System** – Python + Pandas CRUD project
-* ☁️ **AWS EC2 Static Website Deployment** – Hands-on cloud deployment project
+| Project                         | Description                                        |
+| ------------------------------- | -------------------------------------------------- |
+| 🎬 Netflix Clone                | Responsive Netflix-inspired UI using HTML, CSS, JS |
+| 🧑‍🎓 Student Management System | Python + Pandas CRUD project                       |
+| ☁️ AWS EC2 Deployment           | Static website hosted on AWS EC2                   |
+| 🌐 Portfolio Website            | Personal responsive portfolio                      |
 
 ---
 
-## 🎯 Current Goal
+# 🏆 Certifications
 
-Become **Data Science Internship Ready** 🚀
+🏅 **NPTEL OOP (Elite - Silver Medal, 83%) – IIT Roorkee**
+🏅 **NPTEL DBMS – IIT Kharagpur**
+🏅 **IBM SkillBuild – Frontend Development**
+🏅 **AWS Cloud Training**
+🏅 **TCS iON Career Edge – Young Professional**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushsharma07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushsharma07&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushsharma07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushsharma07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ankush-sharma460">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="mailto:ankushsharma4607@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="50"/>
+</a>
+</p>
+
+---
+
+# 🎯 Current Goal
+
+<h3 align="center">
+🚀 Becoming <b>Data Science Internship Ready</b>
+</h3>
+
+<p align="center">
+✨ Always Learning • Building • Improving ✨
+</p>
+```
